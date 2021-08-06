@@ -7,3 +7,9 @@
 [submodule "bundle/dracula"]
 	path = bundle/dracula
 	url = https://github.com/dracula/vim.git
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule "bundle/airline"]
+	path = bundle/airline
+	url = https://github.com/vim-airline/vim-airline

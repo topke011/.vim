@@ -1,3 +1,4 @@
 ln -s ~/.vim/vimrc ~/.vimrc
+sudo apt-get install fonts-powerline
 git submodule init
 git submodule update
