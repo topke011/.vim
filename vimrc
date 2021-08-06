@@ -42,4 +42,4 @@ nnoremap <leader>ts      :call SwitchTabs()<CR>
 " reload rc file
 nnoremap <Leader>vr :source $MYVIMRC<CR>
 
-
+colorscheme dracula
