@@ -19,9 +19,9 @@ syntax on
 " backspace delete in insert mode
 set backspace=indent,eol,start
 
-filetype plugin indent on
-set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
-set list
+" filetype plugin indent on
+" set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
+" set list
 
 " tab width
 set tabstop=4
